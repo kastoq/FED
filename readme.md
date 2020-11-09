@@ -88,5 +88,5 @@ homepage van speedrun.com op een mobiele telefoon
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="profielpage van een speedrunner op speedrun.com op een mobiele telefoon">
+<img src="speedrunrunnerpage.png" width="375px" alt="profielpage van een speedrunner op speedrun.com op een mobiele telefoon">
 profielpage van een speedrunner op speedrun.com op een mobiele telefoon
