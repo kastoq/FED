@@ -73,7 +73,7 @@ Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat 
 **Je startniveau:** -kies uit zwart, rood óf blauw- 
 Blauw. Ik heb vorig jaar namelijk inleiding programmeren niet gehaald.
 javascript is dus nog niet helemaal duidelijk voor me.
-ik ben ook niet trots op mijn niveau voor HTML & Css 
+ik ben ook niet zeker over mijn niveau voor HTML & Css 
 
 **Je focus:** -kies uit responsive óf surface plane- 
 surface, voor nu. misschien denk ik daar later anders over.
