@@ -88,4 +88,4 @@ pokemon.com/nl
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/fedpokemonintake2.png" width="375px" alt="detailpagina "pokedex entry" op pokemon.com/nl op een mobiele telefoon">
+<img src="images/fedpokemonintake2.png" width="375px" alt="detailpagina pokedex entry op pokemon.com/nl op een mobiele telefoon">
