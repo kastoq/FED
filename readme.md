@@ -63,7 +63,7 @@ Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat 
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
+<img src="images/breakdown schets.png" width="375px" alt="breakdown schets van de homepage van pokemon.com/nl">
 
 
 
