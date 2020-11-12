@@ -79,14 +79,13 @@ ik ben ook niet trots op mijn niveau voor HTML & Css
 surface, voor nu. misschien denk ik daar later anders over.
 
 **Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp- 
-speedrun.com
+pokemon.com/nl
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/speedrunhomepage.png" width="375px" alt="homepage van speedrun.com op een mobiele telefoon">
-homepage van speedrun.com op een mobiele telefoon
+<img src="images/fedpokemonintake1.png" width="375px" alt="homepage van pokemon.com/nl op een mobiele telefoon">
+
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/speedrunrunnerpage.png" width="375px" alt="profielpage van een speedrunner op speedrun.com op een mobiele telefoon">
-profielpage van een speedrunner op speedrun.com op een mobiele telefoon
+<img src="images/fedpokemonintake2.png" width="375px" alt="detailpagina "pokedex entry" op pokemon.com/nl op een mobiele telefoon">
