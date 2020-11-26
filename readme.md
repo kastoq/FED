@@ -55,6 +55,7 @@ Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat 
 | an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
+
 ### Verslag van meeting
 
 -na afloop snel uitkomsten vastleggen-
@@ -64,7 +65,6 @@ Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat 
 ## Breakdownschets (week 1)
 
 <img src="images/breakdown schets.png" width="375px" alt="breakdown schets van de homepage van pokemon.com/nl">
-
 
 
 ## Intake (week 1)
@@ -85,7 +85,3 @@ pokemon.com/nl
 
 <img src="images/fedpokemonintake1.png" width="375px" alt="homepage van pokemon.com/nl op een mobiele telefoon">
 
-
-**Screenshot(s) van de tweede pagina (small screen):**
-
-<img src="images/fedpokemonintake2.png" width="375px" alt="detailpagina pokedex entry op pokemon.com/nl op een mobiele telefoon">
