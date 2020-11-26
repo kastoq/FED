@@ -1,19 +1,126 @@
-<!doctype html>
-<html lang="nl">
-	
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
-	<meta charset="UTF-8">
-	<meta name="author" content="jouw naam">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
-	<title>Howdy</title>
-	
-	<link href="styles/style.css" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Pokemon site</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
-	<h1>Howdy</h1>
-	<script src="scripts/script.js"></script>
+  <header>
+
+    <nav>
+      <ul>
+        <li class="active"><img src="images/pokemon.png" alt="Pokémon"></li>
+        <li class="inactive"><img src="images/tcg.png" alt="Trading Card Game"></li>
+        <li class="next"><img src="images/headerarrow.png" alt="More Options"></li>
+      </ul>
+    </nav>
+
+    <ul class="under">
+      <li class="image"><img src="images/hamburger-white.png" alt="harburger menu"></li>
+      <li class="filler"></li>
+      <li class="image"><img src="images/profile.png" alt="Profile"></li>
+    </ul>
+  </header>
+
+  <main>
+    <section>
+      <article class="block1">
+        <img src="images/block1.gif" alt="voltage">
+        <h2>Het verbazingwekkende <em>Sword & Shield — Vivid Voltage</em> is er</h2>
+        <p>Er staan je sterke Pokémon zoals Zarude V en kleurrijke Amazing Pokémon-kaarten te wachten in de nieuwe Pokémon TCG-uitbreiding.</p>
+      </article>
+    </section>
+    <section>
+      <a href="detail.html">
+        <article class="block2">
+          <img src="images/block2.jpg" alt="Crown Tundra">
+          <h2>Verken nu <em>The Crown Tundra</em></h2>
+        </article>
+      </a>
+    </section>
+    <section>
+      <article class="block3">
+        <img src="images/block3.jpg" alt="Pokémon TV">
+        <h2>Avonturen in Johto gaan door op Pokémon TV</h2>
+      </article>
+    </section>
+    <section>
+      <article class="block4">
+        <img src="images/block4.jpg" alt="Pokémon Café Mix">
+        <h2>Ga nu vol voor plezier in Pokémon Café Mix</h2>
+      </article>
+    </section>
+
+    <section>
+      <article class="block5">
+        <h2><img src="images/pokeball2.png" alt="pokeball"> Aanbevolen Pokémon</h2>
+        <div class="dexbg"> </div>
+        <ul>
+          <li class="deximage"><img src="images/Froakie.png" alt="froakie"></li>
+          <li class="dexname">
+            <table>
+              <thead>
+                <tr>
+                  <th>Froakie</th>
+                  <th class="number">656</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="dex">Type</td>
+                  <td class="type">water</td>
+                </tr>
+                <tr>
+                  <td class="dex">Abilities</td>
+                  <td class="dex">Torrent / Protean</td>
+                </tr>
+              </tbody>
+            </table>
+          </li>
+        </ul>
+        <button>Ontdek meer Pokémon!</button>
+      </article>
+    </section>
+
+
+  </main>
+
+  <footer class="index">
+
+    <div class="bordertop"><img src="images/desktopbg.png" alt="the Pokémon Company"> </div>
+
+    <img src="images/pokemoncompany.svg" alt="the Pokémon Company">
+    <ul class="help">
+      <li> Nieuw </li>
+      <li> Pokémon-handleiding voor ouders </li>
+      <li> Klantenservice </li>
+      <li> Over ons bedrijf </li>
+      <li> Selecteer een land/regio </li>
+      <li> Perssite van Pokémon </li>
+    </ul>
+
+    <ul class="social">
+      <li> <img src="images/facebook.png" alt="Facebook"> </li>
+      <li> <img src="images/twitter.png" alt="Twitter"> </li>
+      <li> <img src="images/instagram.png" alt="Instagram"> </li>
+    </ul>
+
+    <ul class="extra">
+      <li><img src="images/kidprivacy.png" alt="BBB CARU Kids Privacy Safe Harbor"></li>
+      <li> Gebruiksvoorwaarden </li>
+      <li> Privacyverklaring </li>
+      <li> Cookie-Pagina </li>
+      <li> Juridische Informatie </li>
+    </ul>
+
+    <p> ©2020 Pokémon. TM, ®Nintendo. </p>
+
+  </footer>
 </body>
-	
+
 </html>
