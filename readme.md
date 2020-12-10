@@ -25,21 +25,30 @@ Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat 
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+
+-dit ging goed & dit was lastig-
 
 
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+
+-dit ging goed & dit was lastig-
 
 
 
 ## Voortgang 1 (week 3)
 
-### Stand van zaken
+goede hoeveelheid content.
+zitten hier en daar nog wat onderdelen die "fixing" nodig hebben
+classes moeten nog weggewerkt worden
+sommige ondedelen kunnen beter een flexbox of grid gebruiken i.p.v. te spelen met posities.
 
 -dit ging goed & dit was lastig-
+
+onderdelen op de juiste plek (en mooi) krijgen
+het carrousel
+vormgeving kleur en vorm van sommigwe onderdelen)
 
 **Screenshot(s):**
 
