@@ -48,7 +48,7 @@ sommige ondedelen kunnen beter een flexbox of grid gebruiken i.p.v. te spelen me
 
 onderdelen op de juiste plek (en mooi) krijgen
 het carrousel
-vormgeving kleur en vorm van sommigwe onderdelen)
+vormgeving (kleur en vorm van sommige onderdelen)
 
 **Screenshot(s):**
 
