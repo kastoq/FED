@@ -32,8 +32,10 @@ Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat 
 
 ## Voortgang 2 (week 5)
 
+goede hoeveelheid content.
+slider hoeft niet helemaal mooi werkend te zijn (teveel onnodige moeite).
+Microinteractie mist nog (denk na over wat dat voor mijn website zou kunnen worden).
 
--dit ging goed & dit was lastig-
 
 
 
@@ -42,7 +44,7 @@ Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat 
 goede hoeveelheid content.
 zitten hier en daar nog wat onderdelen die "fixing" nodig hebben
 classes moeten nog weggewerkt worden
-sommige ondedelen kunnen beter een flexbox of grid gebruiken i.p.v. te spelen met posities.
+sommige onderdelen kunnen beter een flexbox of grid gebruiken i.p.v. te spelen met posities.
 
 -dit ging goed & dit was lastig-
 
